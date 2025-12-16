@@ -1,1 +1,38 @@
 
+  GNU nano 7.2                                                                                            /var/www/html/web/css/style.css                                                                                                     
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.product-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.no-results {
+    text-align: center;
+    padding: 2rem;
+    color: #6c757d;
+}
+
+.category-filter.active {
+    background-color: #0d6efd;
+    color: white !important;
+}
+
+#productCounter {
+    font-size: 0.95rem;
+}
+
