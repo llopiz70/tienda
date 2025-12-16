@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Camiseta Azul",
+    "precio": "19.99",
+    "foto": "camiseta-azul.jpg",
+    "descripcion": "Camiseta 100% algodón, cómoda y moderna.",
+    "categoria": "ropa"
+  },
+  {
+    "nombre": "Zapatillas Deportivas",
+    "precio": "59.90",
+    "foto": "zapatillas.jpg",
+    "descripcion": "Zapatillas ligeras ideales para correr o caminar.",
+    "categoria": "calzado"
+  },
+  {
+    "nombre": "Mochila Escolar",
+    "precio": "34.50",
+    "foto": "mochila.jpg",
+    "descripcion": "Mochila resistente con múltiples compartimentos.",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Gorra Urbana",
+    "precio": "12.00",
+    "foto": "gorra-azul.jpg",
+    "descripcion": "Gorra ajustable, ideal para el sol o estilo casual.",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Gorra Urbana",
+    "precio": "12.00",
+    "foto": "gorra-roja.jpg",
+    "descripcion": "Gorra ajustable, ideal para el sol o estilo casual.",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Reloj Digital",
+    "precio": "45.00",
+    "foto": "reloj-1.jpg",
+    "descripcion": "Reloj resistente al agua con cronómetro.",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Reloj Digital",
+    "precio": "45.00",
+    "foto": "reloj-2.jpg",
+    "descripcion": "Reloj resistente al agua con cronómetro.",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Reloj Digital",
+    "precio": "45.00",
+    "foto": "reloj-3.jpg",
+    "descripcion": "Reloj resistente al agua con cronómetro.",
+    "categoria": "accesorios"
+  }
+]

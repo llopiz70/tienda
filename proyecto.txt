@@ -1,0 +1,11 @@
+/catalogo/
+│
+├── index.php
+├── productos.json
+├── css/
+│   └── style.css
+└── img/
+    ├── camiseta-azul.jpg
+    ├── zapatillas.jpg
+    ├── mochila.jpg
+    └── gorra.jpg
