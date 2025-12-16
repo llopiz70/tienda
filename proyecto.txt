@@ -1,9 +1,7 @@
 /catalogo/
-│
-├── index.php
+├── index.html
 ├── productos.json
-├── css/
-│   └── style.css
+├── style.css
 └── img/
     ├── camiseta-azul.jpg
     ├── zapatillas.jpg
